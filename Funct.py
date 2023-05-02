@@ -14,4 +14,3 @@ def write_todos(todos_write, filepath=FILEPATH):
         file_write.writelines(todos_write)
 
 
-#print('Hello')

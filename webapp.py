@@ -24,4 +24,3 @@ for index, todo in enumerate(todos):
 
 lt.text_input(label=' ', placeholder='Add a todo...', on_change=add_todo,
               key='new_todo')
-
